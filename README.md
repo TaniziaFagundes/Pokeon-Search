@@ -4,10 +4,10 @@ API pokemon URL: https://pokeapi.co/api/v2
 
 ## Tecnologies
 
-React.js
-Styled-components
-globalStyled
-Axios
+React.js --
+Styled-components --
+globalStyled --
+Axios --
 React-dom
 
 ## Deploy in Vercel
