@@ -1,6 +1,30 @@
+# Details project
+
+API pokemon URL: https://pokeapi.co/api/v2
+
+## Tecnologies
+
+React.js
+Styled-components
+globalStyled
+Axios
+React-dom
+
+## Deploy in Vercel
+
+https://pokemons-search.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Run project in local
+
+clone the project with comand in cmd: git clone git@gitlab.com:taniziafagundes/Pokemons-Search.git
+
+## Install dependency
+
+Comand in cmd: yarn
 
 ## Available Scripts
 
